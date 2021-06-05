@@ -1,6 +1,6 @@
 # Scriber
 
-[notes.jackjona.live](notes.jackjona.live) - Source
+[notes.jackjona.live](https://notes.jackjona.live) - Source
 
 ## Live Site
 
