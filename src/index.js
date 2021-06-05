@@ -5,11 +5,18 @@ import "normalize.css/normalize.css";
 import "draft-js/dist/Draft.css";
 import "./styles/_base.scss";
 import "./styles/_setting.scss";
-import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
-serviceWorkerRegistration.register();
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("serviceworker.js").then(registration => {
+        console.log("SW Registered!");
+        console.log(registration);
+    }).catch(error => {
+        console.log("SW Registration Has Failed...");
+        console.log(error);
+    });
+  };
 
 if (window.console) {
     var o = navigator.userAgent.toLowerCase();
