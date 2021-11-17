@@ -20,7 +20,7 @@ export default [
         },
         {
           key: "99hbq",
-          text: "An editor worthy of your notes.",
+          text: "A simple and minimal note taking application.",
           type: "header-two",
           depth: 0,
           inlineStyleRanges: [],
@@ -125,7 +125,7 @@ export default [
         },
         {
           key: "6plpk",
-          text: '"Writing, more than any other art, is indexed to the worthiness of the self because it is identified in people\'s minds with emotion." -rachel cusk',
+          text: '"Write a beautiful quote here" -Bob The Builder',
           type: "blockquote",
           depth: 0,
           inlineStyleRanges: [],
@@ -152,7 +152,7 @@ export default [
         },
         {
           key: "clgmo",
-          text: "Ordered List 🔢",
+          text: "List Example",
           type: "header-two",
           depth: 0,
           inlineStyleRanges: [],
@@ -161,7 +161,7 @@ export default [
         },
         {
           key: "585a2",
-          text: "make a rich text editor",
+          text: "task1",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -172,7 +172,7 @@ export default [
         },
         {
           key: "6deno",
-          text: "develope a file system",
+          text: "task2",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [
@@ -189,7 +189,7 @@ export default [
         },
         {
           key: "addu1",
-          text: "learn back-end development ",
+          text: "task3",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -200,7 +200,7 @@ export default [
         },
         {
           key: "5n6n5",
-          text: "persist notes to the cloud",
+          text: "task4",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -209,7 +209,7 @@ export default [
         },
         {
           key: "c7lff",
-          text: "Example Paragraph 🎨",
+          text: "Example:",
           type: "header-two",
           depth: 0,
           inlineStyleRanges: [],
@@ -218,7 +218,7 @@ export default [
         },
         {
           key: "5eb16",
-          text: "Writing notes should be a minimal, yet powerful experience. Writing notes with Scriber is a very clean experience, which leads to a distraction free environment. Together with a large catalog of themes, Scriber lets you personalize your experience with zero clutter involved. ",
+          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin turpis tellus, eget fermentum est dignissim at. Phasellus aliquet, augue nec molestie interdum, felis nibh facilisis dui, id elementum magna augue nec ex. Quisque semper ut ipsum in pulvinar. Suspendisse potenti. Mauris in rhoncus urna, sed posuere risus. Phasellus efficitur odio sit amet massa egestas posuere. Donec varius neque a magna tincidunt, ac rhoncus quam lobortis. Nunc sit amet massa venenatis, fringilla lorem sit amet, sodales augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris sed facilisis massa, nec blandit elit. Etiam massa nulla, tincidunt non enim imperdiet, tempor iaculis magna. Vivamus rutrum pharetra commodo. Praesent volutpat orci maximus, tincidunt nisl id, fringilla lacus.",
           type: "unstyled",
           depth: 0,
           inlineStyleRanges: [
