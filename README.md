@@ -1,14 +1,14 @@
-# Scriber - A Note Taking Web Application
+# Scriber
 
-[scriber.jackjona.live](https://scriber.jackjona.live) - Source
+A simple and minimal note-taking application.
 
 ## Live Site
 
-[Link to the website](https://scriber.jackjona.live/) 
+[Link to the website](https://www.scriber.ga) 
 
 ## Native
 
-Here is the [link](https://icedrive.net/0/c7ToeplPVl) to download the native app version of Scriber. It is built with Electron.
+Here is the [link](https://icedrive.net/0/3bAhkWnXyf) to download the native app version of Scriber. It is built with Electron.
 
 ### Built With
 
